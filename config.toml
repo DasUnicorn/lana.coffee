@@ -1,0 +1,24 @@
+baseURL = "https://lana.coffee"
+languageCode = "en-us"
+title = "Lana"
+Paginate = 1000
+#googleAnalytics = ""
+theme = "showcase"
+disableKinds = ["taxonomy", "taxonomyTerm", "RSS"]
+
+[params]
+  author = "Lana.Coffee"
+  description = "Welcome to my projects."
+  message = "Hi, I'm Lana. Welcome to the home of my little projects. Here I collect and share all the things I work on in my freetime. You can contact me by mail: lana.coffee[at]posteo.de"
+  hideAutoMenu = false
+
+[[menu.main]]
+  #name = "Blog"
+  #url = "https://dasunicorn.de"
+
+[social]
+  # facebook = "https://facebook.com"
+  twitter = "https://twitter.com/_dasunicorn_"
+  instagram = "https://instagram.com/_dasunicorn_/"
+  # github = "https://github.com/DasUnicorn" #currently not possible
+  # linkedin = "https://linkedin.com"
